@@ -10,10 +10,10 @@ class Config:
     GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
     
     # CORRECT model names based on available models
-    # ✅ Lightweight + working embedding model
+    # Lightweight + working embedding model
     EMBEDDING_MODEL = "models/gemini-embedding-001"
     
-    # ✅ FASTEST + cheapest chat model (best for chatbot)
+    # FASTEST + cheapest chat model (best for chatbot)
     LLM_MODEL = "models/gemini-flash-lite-latest"
     
     # RAG settings

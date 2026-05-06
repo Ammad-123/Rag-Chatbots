@@ -18,9 +18,9 @@ app.add_middleware(
 ) 
 
 # Initialize RAG
-print("🚀 Starting AI Chatbot with WebSocket Streaming...")
+print("Starting AI Chatbot with WebSocket Streaming...")
 rag = RAGSystem()
-print("✅ Ready!")
+print("Ready!")
 
 class ChatRequest(BaseModel):
     message: str
