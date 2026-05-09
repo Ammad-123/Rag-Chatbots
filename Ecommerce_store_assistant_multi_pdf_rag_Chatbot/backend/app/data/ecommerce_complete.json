@@ -1,0 +1,44 @@
+{
+    "pages": [
+        {
+            "title": "Shipping Options",
+            "content": "Standard shipping takes 5-7 business days and is free on orders over $50, otherwise $5.99. Express shipping takes 2-3 business days and costs $12.99. Next-day delivery takes 1 business day and costs $19.99 if ordered by 2 PM. International shipping to Canada costs $15.99 (7-10 days), UK/Europe $24.99 (10-14 days), Australia/Asia $29.99 (14-21 days)."
+        },
+        {
+            "title": "Return Policy",
+            "content": "30-day return policy. Items must be returned within 30 days of delivery in original condition with packaging. Free returns for defective products or wrong items. Refund processed within 3-5 business days. Non-returnable items: gift cards, software, opened headphones."
+        },
+        {
+            "title": "iPhone 15 Pro",
+            "content": "iPhone 15 Pro price is $999. Colors: Natural Titanium, Blue Titanium, White Titanium, Black Titanium. Storage: 128GB, 256GB, 512GB, 1TB. Features: A17 Pro chip, 48MP camera, USB-C, Action button. Battery: 29 hours video playback."
+        },
+        {
+            "title": "MacBook Pro M3",
+            "content": "MacBook Pro 14 M3 price is $1,599. Specs: M3 chip, 8GB RAM, 512GB SSD. Colors: Space Gray, Silver. Battery: 22 hours. Display: Liquid Retina XDR."
+        },
+        {
+            "title": "AirPods Pro 2",
+            "content": "AirPods Pro 2 price is $199. Features: Active Noise Cancellation, Transparency mode, Adaptive Audio. Battery: 6 hours listening, 30 hours with case."
+        },
+        {
+            "title": "Samsung Galaxy S24 Ultra",
+            "content": "Samsung Galaxy S24 Ultra price is $1,199. Colors: Titanium Gray, Black, Violet, Yellow. Storage: 256GB, 512GB, 1TB. Features: S Pen, 200MP camera, AI features, 7 years updates. Battery: 5,000mAh."
+        },
+        {
+            "title": "This Week's Deals",
+            "content": "This week's deals: iPhone 15 Pro save $100 + free AirPods. MacBook Air M2 for $899 (regular $1,099). iPad 10th Gen $399 with free Pencil. Galaxy S24 Ultra trade-in any phone get $800 off. Galaxy Buds2 Pro $149 (save $80). Anker chargers 30% off, OtterBox cases buy one get one 50% off."
+        },
+        {
+            "title": "Student Discount",
+            "content": "Student discount: 15% off with verified .edu email. Applies to MacBooks, iPads, Microsoft Surface, and Dell XPS laptops. Exclusive student bundle: iPad Air + Pencil + Keyboard case save $150."
+        },
+        {
+            "title": "Payment Methods",
+            "content": "Accepted payments: Credit cards (Visa, Mastercard, Amex, Discover), PayPal, Apple Pay, Google Pay, Klarna (4 interest-free payments), Affirm (monthly financing), TechStore gift cards."
+        },
+        {
+            "title": "Warranty",
+            "content": "Manufacturer warranty: Apple products 1 year, Samsung products 1 year. Extended protection: TechStore Protection Plus from $49-$199 for 2 years coverage including accidental damage and battery service."
+        }
+    ]
+}

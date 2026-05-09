@@ -1,0 +1,59 @@
+# =========================
+# Python Backend
+# =========================
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment (backend)
+backend/.venv/
+backend/venv/
+.venv/
+
+# Environment variables (backend)
+backend/.env
+.env
+
+# Build / packaging
+build/
+dist/
+wheels/
+*.egg-info/
+
+# Logs
+*.log
+
+# =========================
+# Frontend (Node / React)
+# =========================
+
+# Node modules
+frontend/node_modules/
+node_modules/
+
+# Build output
+frontend/build/
+frontend/dist/
+
+# Environment variables (frontend)
+frontend/.env
+
+# =========================
+# General
+# =========================
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# =========================
+# Optional (if using Docker)
+# =========================
+*.pid
+*.seed
+*.pid.lock

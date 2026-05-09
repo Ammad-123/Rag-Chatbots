@@ -1,0 +1,28 @@
+{
+    "pages": [
+        {
+            "title": "Company Overview",
+            "content": "Krimx Solutions is a leading technology company specializing in AI-powered business solutions. Founded in 2020, we help businesses automate customer support, streamline operations, and enhance user engagement through intelligent chatbot systems."
+        },
+        {
+            "title": "Pricing Plans",
+            "content": "Our pricing plans: Starter at $49/month includes basic AI chatbot with 1000 conversations monthly. Professional at $99/month includes advanced AI, 5000 conversations, analytics dashboard. Enterprise with custom pricing includes unlimited conversations, dedicated support, custom integrations, and SLA guarantees."
+        },
+        {
+            "title": "Features List",
+            "content": "Our AI chatbot features: Natural language processing for understanding user intent. Sentiment analysis to detect customer emotions. Automated responses for common questions. Conversation history tracking. User analytics dashboard. REST API for custom integrations. Webhook support for external services. Real-time monitoring. Multi-language support (10+ languages). Custom branding options."
+        },
+        {
+            "title": "Integration Options",
+            "content": "We integrate with: Slack for team collaboration. Microsoft Teams for enterprise communication. Discord for community support. WhatsApp Business for customer messaging. Facebook Messenger for social media support. Custom websites via our JavaScript widget. Also supports API integration with Python, JavaScript, Java, and PHP SDKs."
+        },
+        {
+            "title": "Support Services",
+            "content": "Support options: Email support response within 24 hours for all plans. Live chat support with 4-hour response for Professional plan. 24/7 phone support for Enterprise plan. Dedicated account manager for Enterprise customers. Knowledge base with 200+ articles. Weekly training webinars. Onboarding assistance included."
+        },
+        {
+            "title": "Security & Compliance",
+            "content": "Security features: End-to-end encryption for all conversations. GDPR compliant data handling. CCPA compliance for California users. SOC 2 Type II certification. Regular security audits by third-party firms. Two-factor authentication available. Data retention policies customizable. ISO 27001 certified."
+        }
+    ]
+}
